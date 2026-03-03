@@ -73,7 +73,7 @@ I'm a fresher passionate about turning raw data into business decisions. I build
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vanshika-tandon9/" target="_blank">
+<a href="https://www.linkedin.com/in/vanshika-tandxn/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vanshikatandon9@gmail.com" target="_blank">
