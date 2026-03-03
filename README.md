@@ -88,7 +88,7 @@ I'm a fresher passionate about turning raw data into business decisions. I build
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanshikatandon&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vanshikatandxn&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
