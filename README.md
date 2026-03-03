@@ -1,4 +1,10 @@
- # Hi there, I'm Vanshika Tandon 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Turning+data+into+insights+💡;Building+intelligent+systems+🤖;Always+learning+something+new+📚)](https://git.io/typing-svg)
+
+</div>
+
+ # Hey, I'm Vanshika Tandon !
 
 ### 🎯 Aspiring AI ENGINEER | Delhi, India
 
@@ -45,12 +51,12 @@ I'm a fresher passionate about turning raw data into business decisions. I build
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikatandon&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikatandon&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikatandon9&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikatandon9&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatandon&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikatandon9&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
